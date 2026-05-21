@@ -86,7 +86,13 @@
 - **Low Latency:** Very fast communication.
 - **Reduced Overhead:** No repeated HTTP headers in every request.
 
-
+## 4] SOAP API-
+- SOAP stands for Simple Object Access Protocol.
+- SOAP is a protocol used to exchange structured information between applications over a network.
+- **XML-Based:** SOAP messages are written only in XML format.
+- **Protocol-Based:** SOAP follows strict rules and standards.
+- **Platform Independent:** Works with different programming languages:Java, Python, .NET, PHP etc.
+- **Highly Secure:** Supports: Authentication, Encryption, Digital signatures and WS-Security.
 
 
 
