@@ -62,3 +62,15 @@
 | 404  | Not Found — Resource does not exist       |
 | 500  | Internal Server Error — Server-side issue |
 
+# Types of API-
+## 1] REST API -
+- REST is not a protocol, it's an architectural style (a set of rules/constraints). Any API that follows these rules is called a RESTful API.
+- Created by Roy Fielding in his 2000 PhD dissertation.
+- Uses HTTP as the communication protocol.
+- Data exchanged usually in JSON (sometimes XML)
+- **Client-Server Architecture-** Frontend and backend separated. Client Server evolve independently. Change the UI without touching the API. Scale the backend without touching the frontend.
+- **Stateless-** Each request is independent. Server does NOT remember previous requests. Every request contains all required information.
+- **Cacheable-** API responses can be stored temporarily and reused instead of requesting data again from the server. This improves Speed, Performance and scalability.
+- **Uniform Interface-** All REST APIs should follow a consistent and standardized way of communication.
+
+## 2] GraphQL API -
