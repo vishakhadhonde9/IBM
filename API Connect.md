@@ -74,3 +74,26 @@
 - **Uniform Interface-** All REST APIs should follow a consistent and standardized way of communication.
 
 ## 2] GraphQL API -
+- GraphQL is a query language for APIs and a runtime for executing those queries.
+- Developed by Meta(Facebook) in 2012 and open-sourced in 2015.
+- GraphQL allows clients to request exactly the data they need from the server.Unlike REST APIs, GraphQL usually works through one single endpoint.
+
+## 3] WebSocket API -
+- WebSocket is a communication protocol that enables real-time, two-way (full-duplex) communication between a client and a server over a single persistent connection
+- **Real-Time Communication:** Data transfer happens instantly.
+- **Persistent Connection:** Single connection remains open.
+- **Full-Duplex:** Both sides communicate simultaneously.
+- **Low Latency:** Very fast communication.
+- **Reduced Overhead:** No repeated HTTP headers in every request.
+
+
+
+
+
+
+
+
+
+
+
+
