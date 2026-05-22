@@ -98,3 +98,37 @@
       Understand user behavior
       Plan scaling
 
+
+# Key Roles -
+- In an API ecosystem, different roles work together throughout the API lifecycle.
+
+      Provider/Product Managers → Publish APIs
+      Developers → Build APIs
+      Consumers → Use APIs
+
+### 1] API Developer -
+- API Developers are technical people who create and implement APIs.
+- They write the actual code and design API interfaces.
+- **Primary Responsibilities:**
+
+      Build REST or GraphQL APIs
+      Define API endpoints
+      Configure API security
+      Test APIs in sandbox environments
+      Create API definitions using OpenAPI/Swagger
+      Implement backend integration
+      Configure API assemblies and policies
+
+
+### 2]  API Product Manager -
+- API Product Managers are business-oriented leaders who manage APIs as products.
+- They connect technical teams with business users and customers.
+
+Primary Responsibilities
+Package APIs into Products
+Create subscription Plans
+Manage Developer Portal experience
+Define API strategy
+Monitor API adoption
+Handle onboarding of consumers
+Manage API lifecycle and roadmap
