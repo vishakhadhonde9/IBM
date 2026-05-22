@@ -123,12 +123,29 @@
 ### 2]  API Product Manager -
 - API Product Managers are business-oriented leaders who manage APIs as products.
 - They connect technical teams with business users and customers.
+- **Primary Responsibilities:**
 
-Primary Responsibilities
-Package APIs into Products
-Create subscription Plans
-Manage Developer Portal experience
-Define API strategy
-Monitor API adoption
-Handle onboarding of consumers
-Manage API lifecycle and roadmap
+        Package APIs into Products
+        Create subscription Plans
+        Manage Developer Portal experience
+        Define API strategy
+        Monitor API adoption
+        Handle onboarding of consumers
+        Manage API lifecycle and roadmap
+
+
+### 3] Provider Organization Owner-
+- Provider Organization Owner is the main administrator of the API platform.
+- They govern the complete API environment.
+- **Primary Responsibilities:**
+  
+      Manage catalogs
+      Configure gateways
+      Create TLS profiles
+      Configure truststores
+      Manage security settings
+      Define user roles and permissions
+      Control access for teams
+      Configure user registries
+
+### 4] 
