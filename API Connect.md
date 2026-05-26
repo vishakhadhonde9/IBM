@@ -148,4 +148,14 @@
       Control access for teams
       Configure user registries
 
-### 4] 
+### 4] Consumer / Consumer Organization
+- Consumers are users or organizations that use published APIs to build applications.
+- Usually they are: Application developers, Partner companies, Mobile app teams.
+- **Primary Responsibilities:**
+
+      Access Developer Portal
+      Discover APIs
+      Subscribe to API Plans
+      Generate API keys
+      Integrate APIs into applications
+      Monitor application usage
