@@ -159,3 +159,18 @@
       Generate API keys
       Integrate APIs into applications
       Monitor application usage
+
+# Components -
+## Product -
+- Product is a package that contains one or more APIs along with usage rules.
+- It is the main way APIs are exposed to developers.
+
+    Product
+     ├── Product Information
+     ├── APIs -> Single or Multiple API
+     ├── Plans
+     ├── Visibility Settings
+     ├── Subscription Settings
+     └── Version
+
+## Plan -
