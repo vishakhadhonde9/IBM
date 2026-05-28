@@ -62,6 +62,18 @@
 | 404  | Not Found — Resource does not exist       |
 | 500  | Internal Server Error — Server-side issue |
 
+# Http and Https -
+- HTTP is a protocol that allows browsers and applications to communicate with web servers.
+- HTTP is a communication protocol used to transfer data between:
+  -  Client (Browser/App)
+  - Server (Website/API Server)
+- It is the foundation of web communication.
+
+### https-
+- HTTPS is the secure version of HTTP.
+- HTTPS encrypts data transferred between client and server.
+- 
+
 # Types of API-
 ## 1] REST API -
 - REST is not a protocol, it's an architectural style (a set of rules/constraints). Any API that follows these rules is called a RESTful API.
