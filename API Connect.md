@@ -165,12 +165,38 @@
 - Product is a package that contains one or more APIs along with usage rules.
 - It is the main way APIs are exposed to developers.
 
-    Product
-     ├── Product Information
-     ├── APIs -> Single or Multiple API
-     ├── Plans
-     ├── Visibility Settings
-     ├── Subscription Settings
-     └── Version
+      Product
+       ├── Product Information
+       ├── APIs -> Single or Multiple API
+       ├── Plans
+       ├── Visibility Settings
+       ├── Subscription Settings
+       └── Version
 
 ## Plan -
+- Plan defines the usage rules and access permissions for APIs inside a Product.
+- It controls:
+    - How consumers use APIs.
+    - How many requests are allowed.
+    - Which APIs or operations are accessible.
+
+| Feature            | Purpose                                                                                                    |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Rate Limits        | Controls how many API requests can be made within a specific time period (example: 100 requests/minute)   |
+| Quotas             | Controls the total number of API requests allowed over a longer duration (example: 10,000 requests/month) |
+| Access Rules       | Defines which APIs, endpoints, or operations a consumer is allowed to access                               |
+| Subscription Rules | Defines how developers subscribe to a Product or Plan (auto approval or manual approval)                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
