@@ -46,7 +46,7 @@
 | DELETE | Remove data  |
 
 ## 4. Headers-
-- Headers are key-value pairs sent alongside every HTTP request and response. They carry metadata — information about the request/response, not the data itself.
+- Headers are key-value pairs sent alongside every HTTP request and response. They carry metadata, information about the request/response, not the data itself.
 
 ## 5. Status Codes-
 - HTTP Status Codes are responses sent by the server to indicate whether an API request was successful or failed.
