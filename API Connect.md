@@ -179,6 +179,8 @@
     - How consumers use APIs.
     - How many requests are allowed.
     - Which APIs or operations are accessible.
+ 
+- **Plan define:**
 
 | Feature            | Purpose                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
