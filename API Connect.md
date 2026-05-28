@@ -190,8 +190,33 @@
 | Subscription Rules | Defines how developers subscribe to a Product or Plan (auto approval or manual approval)                   |
 
 
+## Product Lifecycle -
+
+      Draft
+        ↓
+      Staged
+        ↓
+      Published
+        ↓
+      Deprecated
+        ↓
+      Retired
 
 
+#### 1] Draft -
+- The initial stage where the Product is created and configured. APIs, Plans, and policies are added and modified during this stage.
+
+#### 2] Staged -
+- The Product is tested and validated internally before release. This stage ensures APIs work correctly, securely, and are ready for publishing.
+
+#### 3] Published -
+- The Product becomes live and visible in the Developer Portal. Developers can subscribe to Plans and start consuming APIs.
+
+#### 4] Deprecated -
+- The Product is still available but marked as old and planned for removal. Consumers are advised to migrate to a newer Product or version.
+
+#### 5] Retired -
+- The Product is completely removed and no longer accessible. API usage, subscriptions, and access are permanently disabled.
 
 
 
