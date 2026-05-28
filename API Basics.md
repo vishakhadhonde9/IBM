@@ -3,7 +3,6 @@
 
 # Core Components -
 ## 1. Request & Response -
-- Every API interaction follows this pattern:
 ### Request -
 - Client sends a request (what do you want?). The client can be: Browser, Mobile app, Frontend application, Another server, CLI tool and Automation script
 - **Structure of an API Request:**
