@@ -219,7 +219,21 @@
 - The Product is completely removed and no longer accessible. API usage, subscriptions, and access are permanently disabled.
 
 
+# Catalog -
+- Catalog is a logical environment used to publish, organize, manage, and expose APIs and Products to developers.
+- Environment Separation: Catalogs help separate environments such as Development, Testing, UAT, and Production so changes in one environment do not affect others.
+- Safe Testing: APIs and Products can be tested safely in lower environments before being released to production users.
+- Better Governance: Catalogs provide controlled API deployment and management by organizing Products, subscriptions, and access permissions properly.
+- Security: Each Catalog maintains isolated access and configurations, improving API security and preventing unauthorized exposure.
+  
 
+| Catalog     | Purpose |
+| ------------| ------- |
+| Sandbox     | Used for initial API testing, experimentation, and early-stage validation by developers. |
+| Development | Used by developers to build, modify, and integrate APIs during the development process. |
+| QA/Test     | Used by QA teams to perform functional, security, and performance testing of APIs and Products. |
+| UAT         | Used by business users or clients to verify that APIs meet business requirements before production deployment. |
+| Production  | Live environment where APIs are exposed to real users, applications, and production traffic. |
 
 
 
